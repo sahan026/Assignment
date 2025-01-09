@@ -110,7 +110,7 @@ client/
   - Worked on *Backend* API routes (e.g., managing package details).
   - Set up MongoDB connections and ensured proper handling of data storage and retrieval.
 
-- *22ug2-0035* - Sahan Hansaja
+- *22ug2-0035* - Sahan Hansja
   - Created the *Backend* architecture using Express and connected it to the *Frontend*.
   - Initialized the project repository and set up version control using Git.
   - Configured and added a *CI/CD pipeline* for automated deployment and testing processes.
